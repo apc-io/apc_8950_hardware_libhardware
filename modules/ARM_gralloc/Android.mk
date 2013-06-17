@@ -21,5 +21,5 @@ include $(CLEAR_VARS)
 LOCAL_MODULE_TAGS := eng
 
 #
-# gralloc.android.so
+# gralloc.default.so
 #
